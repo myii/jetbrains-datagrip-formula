@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.2.0](https://github.com/saltstack-formulas/jetbrains-datagrip-formula/compare/v1.1.0...v1.2.0) (2020-09-20)
+
+
+### Bug Fixes
+
+* **icon:** use correct icon path ([0a1d2fd](https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/0a1d2fd330aa25a264abec5b185b4e4347b1cac1))
+
+
+### Features
+
+* **clean:** add windows support ([decafba](https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/decafbabfaf816f4bb9029564027a7244f13319c))
+
 # [1.1.0](https://github.com/saltstack-formulas/jetbrains-datagrip-formula/compare/v1.0.2...v1.1.0) (2020-09-20)
 
 
