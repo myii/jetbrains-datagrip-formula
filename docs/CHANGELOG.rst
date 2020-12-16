@@ -2,6 +2,24 @@
 Changelog
 =========
 
+`1.2.1 <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/compare/v1.2.0...v1.2.1>`_ (2020-12-16)
+--------------------------------------------------------------------------------------------------------------------
+
+Continuous Integration
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+* **gitlab-ci:** use GitLab CI as Travis CI replacement (\ `e4bf34a <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/e4bf34ad1f66a0fa580d7c2c5a9dd590070606cf>`_\ )
+* **pre-commit:** add to formula [skip ci] (\ `027f7d0 <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/027f7d0e712952c3b0e7a0c0e0b21a1fdd524f02>`_\ )
+* **pre-commit:** enable/disable ``rstcheck`` as relevant [skip ci] (\ `ac7546e <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/ac7546e10a0d4c2e14ccc4ac99e2c3e7e94b3d82>`_\ )
+* **pre-commit:** finalise ``rstcheck`` configuration [skip ci] (\ `3e1c8d1 <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/3e1c8d1db9ef02d26eb460442cd7f7aee1da919e>`_\ )
+
+Documentation
+^^^^^^^^^^^^^
+
+
+* **readme:** fix ``rstcheck`` violation [skip ci] (\ `a55feae <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/commit/a55feae2a8b5ffbd4198b2ce768892882a203e65>`_\ ), closes `/travis-ci.org/github/myii/jetbrains-datagrip-formula/builds/731606995#L259 <https://github.com//travis-ci.org/github/myii/jetbrains-datagrip-formula/builds/731606995/issues/L259>`_
+
 `1.2.0 <https://github.com/saltstack-formulas/jetbrains-datagrip-formula/compare/v1.1.0...v1.2.0>`_ (2020-09-20)
 --------------------------------------------------------------------------------------------------------------------
 
