@@ -316,6 +316,7 @@ suites:
       state_top:
         base:
           '*':
+            - datagrip._mapdata
             - datagrip.clean
             - datagrip
       pillars:
@@ -337,6 +338,7 @@ suites:
       state_top:
         base:
           '*':
+            - datagrip._mapdata
             - datagrip.clean
             - datagrip
       pillars:
